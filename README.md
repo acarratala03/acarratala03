@@ -1,6 +1,6 @@
 <h1 align="left">Holaaa 👋! Mi nombre es Arturo Carratalá Diezma y soy Técnico Superior Junior en Desarrollo de Aplicaciones Multiplataforma</h1>
 <h2 align="left">Sobre mí</h2>
-<h3 align="left">Técnico Superior de Desarrollo de Aplicaciones Multiplataforma Junior apasionado por crear soluciones digitales innovadoras. Con una sólida formación en Desarrollo de Aplicaciones Multiplataforma, poseo un profundo conocimiento en lenguajes como JavaScript, Java, HTML y herramientas como Visual Studio Code, Android Studio. Mi experiencia en proyectos personales y académicos me ha permitido desarrollar habilidades en el diseño, desarrollo y despliegue de aplicaciones web y móviles.</h3>
+<p align="left">Técnico Superior de Desarrollo de Aplicaciones Multiplataforma Junior apasionado por crear soluciones digitales innovadoras. Con una sólida formación en Desarrollo de Aplicaciones Multiplataforma, poseo un profundo conocimiento en lenguajes como JavaScript, Java, HTML y herramientas como Visual Studio Code, Android Studio. Mi experiencia en proyectos personales y académicos me ha permitido desarrollar habilidades en el diseño, desarrollo y despliegue de aplicaciones web y móviles.</p>
 
 
 ###
